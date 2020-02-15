@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+  }
+  .header-banner{
+    padding-top:35px;
+    padding-bottom:100px;
+    color:#ffffff;
+    font-family:Helvetica, serif;
+    font-weight:100;
+    background-image:url("../../images/bg-gr-v.png"), url("../../images/Kubernetes_official_logo.png");
+    background-attachment:scroll, scroll;
+    background-position:left top, center center;
+    background-repeat:repeat-y, no-repeat;
+    background-size:contain, contain;
+    min-height:300px;
+  }
+
+  
